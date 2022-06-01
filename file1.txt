@@ -1,0 +1,5 @@
+Hello TEXT to handwriting by reading from a file
+1)
+2)
+3)
+
